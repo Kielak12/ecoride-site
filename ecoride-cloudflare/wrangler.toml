@@ -1,0 +1,10 @@
+name = "ecoride"
+compatibility_date = "2025-08-18"
+
+[pages]
+project_name = "ecoride"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ecoride_db"
+database_id = "REPLACE_WITH_YOUR_D1_ID"
